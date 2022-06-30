@@ -1,0 +1,14 @@
+C:\Users\WottinaSusina\source\repos\Zyter\Zyter\bin\Debug\Zyter.exe.config
+C:\Users\WottinaSusina\source\repos\Zyter\Zyter\bin\Debug\Zyter.exe
+C:\Users\WottinaSusina\source\repos\Zyter\Zyter\bin\Debug\Zyter.pdb
+C:\Users\WottinaSusina\source\repos\Zyter\Zyter\bin\Debug\FastColoredTextBox.dll
+C:\Users\WottinaSusina\source\repos\Zyter\Zyter\bin\Debug\WeAreDevs_API.dll
+C:\Users\WottinaSusina\source\repos\Zyter\Zyter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\WottinaSusina\source\repos\Zyter\Zyter\obj\Debug\Zyter.csproj.AssemblyReference.cache
+C:\Users\WottinaSusina\source\repos\Zyter\Zyter\obj\Debug\Zyter.Zyter.resources
+C:\Users\WottinaSusina\source\repos\Zyter\Zyter\obj\Debug\Zyter.Properties.Resources.resources
+C:\Users\WottinaSusina\source\repos\Zyter\Zyter\obj\Debug\Zyter.csproj.GenerateResource.cache
+C:\Users\WottinaSusina\source\repos\Zyter\Zyter\obj\Debug\Zyter.csproj.CoreCompileInputs.cache
+C:\Users\WottinaSusina\source\repos\Zyter\Zyter\obj\Debug\Zyter.csproj.CopyComplete
+C:\Users\WottinaSusina\source\repos\Zyter\Zyter\obj\Debug\Zyter.exe
+C:\Users\WottinaSusina\source\repos\Zyter\Zyter\obj\Debug\Zyter.pdb
