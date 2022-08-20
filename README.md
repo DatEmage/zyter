@@ -13,4 +13,4 @@ It's actually pretty easy, jus go to releases on the right side of your screen a
 It's because it injects it's own DLL into an third-party software
 
 ## Need any help?
-If so you can contact me on Discord: DatEmage#6969
+If so you can contact me on Discord: DatEmage#4949
